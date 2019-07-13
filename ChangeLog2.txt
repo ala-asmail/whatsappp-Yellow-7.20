@@ -13,24 +13,9 @@
 <li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
 <li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
 <li> تعديل علاء اسماعيل<li>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, user-scalable=no" />
-<style>
-h1 {
-    color: #0683ab;
-    text-shadow: 5px 5px 5px #555a4a;
-}
-</style>
-</head>
-<body style="background-color:transparent;">
-<marquee behavior="alternate" scrollamount="10"><h1>Developer Alaa Ismail</h1></marquee>
-</body>
-</html>
 
 <p>New Base Updated 7.20</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
-
 
 ","url":"https://www.free-netsyr.com/2019/06/2020_20.html"
 }
